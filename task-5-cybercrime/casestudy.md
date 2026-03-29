@@ -10,5 +10,6 @@ The Deception: Instead of paying the victim, the scammer will send the victim a 
 The Theft: In reality, the victim will need to enter their UPI PIN only if they need to send money, not if they need to receive it. When the victim enters their PIN, they will inadvertently allow the scammer to debit their account. The money will instantly be transferred from the victim’s account to the scammer’s account.
 
 The Exit: After the scammer is successful, they will immediately block the victim. They will transfer the money through different "mule" accounts to prevent detection.
+
 3. Consequences
 The victim suffers an instant financial loss. Since the transaction is technically "authorized" by the user's secret PIN, it is often hard for banks to reverse the transaction, making it an extremely effective scam.
